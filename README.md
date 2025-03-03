@@ -2,6 +2,10 @@
 
 This document provides a categorized list of cybersecurity tools, along with a brief introduction and their common use cases. Hope this comes in handy for someone! Currently being actively maintained by @qilstiano on Github.
 
+# Contributions
+
+To contribute please open an issue with the relevant tool or if you're feeling confident, feel free to fork this repo and make the changes to README.md and open a PR! Cheerz. -a'qil
+
 ---
 
 ## 🔍 **OSINT (Open Source Intelligence) Tools**
