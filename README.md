@@ -1,6 +1,6 @@
 # Cybersecurity Tools Reference
 
-This document provides a categorized list of cybersecurity tools, along with a brief introduction and their common use cases.
+This document provides a categorized list of cybersecurity tools, along with a brief introduction and their common use cases. Hope this comes in handy for someone! Currently being actively maintained by @qilstiano on Github.
 
 ---
 
@@ -100,3 +100,4 @@ This document provides a categorized list of cybersecurity tools, along with a b
 ## Conclusion
 This document provides a quick reference for essential cybersecurity tools categorized by their function. Keeping track of these tools can greatly aid in penetration testing, OSINT, forensic analysis, and automation in security operations.
 
+Check out the repo [here!](https://github.com/qilstiano/red-team-shtuff)
